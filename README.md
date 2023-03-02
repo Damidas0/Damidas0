@@ -11,7 +11,7 @@
 <ul> 
   <li> <a href="https://github.com/Damidas0/-2022-Personnel-scripts-wikipedia">[Python] Scripts d'aide à l'édition Wikipédia : Sélénium Webscraping</a></li>
   <li> <a href="https://github.com/Damidas0/-2023-Unity-Pacman">[C#/Unity] PACMAN </a></li>
-  <li> <a href="https://github.com/Damidas0/-2022-Personnel-IR-System-Atlas"> [C#/.NET FrameWork] Information retrieval </a> </li>
+  <li> <a href="https://github.com/Damidas0/-2022-Personnel-IR-System-Atlas"> [C#/.NET FrameWork] Générateur d'Atlas : IR System, Inverted Index </a> </li>
 </ul>
 
 
