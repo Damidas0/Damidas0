@@ -1,4 +1,4 @@
-<h1>Bienvenue sur ma page Git ! Je m'appelle Damien et je suis étudiant à l'école d'ingénieur Polytech Lyon</h1>
+<h1>Bienvenue sur ma page Git ! Je suis étudiant à l'école d'ingénieur Polytech Lyon</h1>
 <h2>Projets de cours : </h2>
 <ul>
   <li> <a href="https://github.com/Damidas0/-2023-Cours-TicTacToe-3D">[Java] TicTacToe 2D/3D : MinMax, Maven, JavaDoc</a> </li>
@@ -14,7 +14,5 @@
   <li> <a href="https://github.com/Damidas0/-2022-Personnel-IR-System-Atlas"> [C#/.NET FrameWork] Générateur d'Atlas : IR System, Inverted Index (en cours) </a> </li>
 </ul>
 
-
-<h3> Mail : damien.laqueuvre@gmail.com <h3>
 
 
