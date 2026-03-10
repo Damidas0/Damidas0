@@ -1,72 +1,16 @@
-<h1>Bienvenue sur ma page Git ! Je suis étudiant à l'école d'ingénieur Polytech Lyon</h1>
-<h2>Projets de cours : </h2>
-<table>
-  <thead>
-    <tr>
-      <th>Projet</th>
-      <th>Langage</th>
-      <th>Date</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Damidas0/-2023-Cours-TicTacToe-3D">TicTacToe 2D/3D</a></td>
-      <td>Java</td>
-      <td>2023</td>
-      <td>Implémentation du jeu TicTacToe en 2D/3D avec MinMax, Maven et JavaDoc.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Damidas0/-2022-Cours-MVC-site-eshopping">Site d'eshopping</a></td>
-      <td>PHP/SQL</td>
-      <td>2022</td>
-      <td>Site de e-commerce avec base de données en architecture MVC orientée objet, utilisant Bootstrap 5.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Damidas0/-2022-Cours-TopDown-Shooter-sans-moteur-de-jeu-SFML-cpp">TopDown Shooter</a></td>
-      <td>C++/SFML</td>
-      <td>2022</td>
-      <td>Jeu de tir avec vue du dessus sans moteur de jeu, intégrant la génération procédurale et le pathfinding A*.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Damidas0/-2022-Cours-MCTS-Minmax-applique-au-puissance-4">IA Puissance 4</a></td>
-      <td>Python</td>
-      <td>2022</td>
-      <td>Intelligence artificielle appliquée au jeu Puissance 4 utilisant les algorithmes MinMax et MCTS.</td>
-    </tr>
-  </tbody>
-</table>
 
-<h2>Projets personnels : </h2>
-<table>
-  <thead>
-    <tr>
-      <th>Projet</th>
-      <th>Langage</th>
-      <th>Date</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Damidas0/-2022-Personnel-scripts-wikipedia">Scripts Wikipédia</a></td>
-      <td>Python</td>
-      <td>2022</td>
-      <td>Scripts d'aide à l'édition de Wikipédia avec web scraping via Selenium.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Damidas0/-2023-Unity-Pacman">PACMAN</a></td>
-      <td>C#/Unity</td>
-      <td>2023</td>
-      <td>Implémentation du jeu PACMAN sous Unity.</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Damidas0/-2022-Personnel-IR-System-Atlas">Générateur d'Atlas</a></td>
-      <td>C#/.NET FrameWork</td>
-      <td>2022 (en cours)</td>
-      <td>Générateur d'Atlas avec Inverted Index pour un système d'information de récupération (IR System).</td>
-    </tr>
-  </tbody>
-</table>
+# About Me:
+Last year student in Polytech Lyon. Currently doing an internship in [ERIC](https://eric.msh-lse.fr/) on social choice rules comparison 
 
+
+# Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# GitHub :
+
+![](https://github-readme-stats.vercel.app/api?username=Damidas0&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Damidas0&theme=cobalt&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Damidas0&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Damidas0&icon=0&color=2)](https://visitcount.itsvg.in)
 
